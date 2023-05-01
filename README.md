@@ -1,5 +1,6 @@
 
-![LinkedIn Banner final](https://user-images.githubusercontent.com/119127289/235489097-0e764c73-9be2-4648-9e30-09988921c3bf.png)
+![LinkedIn Bannerfinal](https://user-images.githubusercontent.com/119127289/235489625-04e93544-166e-4270-a779-787a2a14f296.png)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Oauth-Celestial" alt="Oauth-Celestial" /></a> </p>
 
